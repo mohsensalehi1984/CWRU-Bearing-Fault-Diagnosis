@@ -2,14 +2,10 @@
 
 Deep learning-based fault diagnosis of rolling element bearings using the **Case Western Reserve University (CWRU) Bearing Dataset**.
 
-** Please click on CWRU_NN.ipynb file to see the code and documentations.**
+** Please click on *CWRU_NN.ipynb* file to see the code and documentations.**
 
 ### Dataset
 Uses the standardized NumPy version of the CWRU Bearing Dataset:  
 https://github.com/srigas/CWRU_Bearing_NumPy
 
-### Installation
-```bash
-git clone https://github.com/yourusername/CWRU-Bearing-Fault-Diagnosis.git
-cd CWRU-Bearing-Fault-Diagnosis
-pip install -r requirements.txt
+
