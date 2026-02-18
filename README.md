@@ -8,10 +8,6 @@ Deep learning-based fault diagnosis of rolling element bearings using the **Case
 Uses the standardized NumPy version of the CWRU Bearing Dataset:  
 https://github.com/srigas/CWRU_Bearing_NumPy
 
-- Drive End (DE) accelerometer signals only
-- 9 fault classes (7, 14, 21 mil faults for IR, Ball, OR + Normal)
-
-
 ### Installation
 ```bash
 git clone https://github.com/yourusername/CWRU-Bearing-Fault-Diagnosis.git
